@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="card_corner_radius">4dp</dimen>
+    <dimen name="card_elevation">2dp</dimen>
+    <dimen name="margin_standard">8dp</dimen>
+    <dimen name="margin_small">4dp</dimen>
+    <dimen name="margin_large">16dp</dimen>
+    <dimen name="margin_xlarge">36dp</dimen>
+    <dimen name="dashboard_icon">120dp</dimen>
+    <dimen name="user_profile_size">60dp</dimen>
+
+
+
+
+</resources>

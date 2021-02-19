@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">SampleApi</string>
+    <string name="user_name">UserName</string>
+    <string name="email">email</string>
+    <string name="login">Login</string>
+    <string name="enter_user_name_or_email">Please enter username or email</string>
+    <string name="error_occurred">An error occurred, Please check your internet connection</string>
+    <string name="wrong_username_or_email">Wrong username or email!</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
 </resources>
